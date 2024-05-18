@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/Hossam-PHP
+    git clone https://github.com/Hossam-PHP/Parent-Assessment-Dynamic-json-filter
     ```
 
 2. Navigate to the project directory:
